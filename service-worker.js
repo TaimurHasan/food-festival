@@ -1,5 +1,5 @@
 const FILES_TO_CACHE = [
-    '../index.html',
+    "./index.html",
     "./events.html",
     "./tickets.html",
     "./schedule.html",
